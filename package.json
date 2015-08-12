@@ -5,6 +5,7 @@
     "body-parser" : "*",
     "mysql" : "*",
     "express" : "*",
-    "ejs" : "*"
+    "ejs" : "*",
+    "generic-pool" : "*"
   }
 }

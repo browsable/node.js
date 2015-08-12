@@ -15,6 +15,7 @@
    var conn = mysql.createConnection(option);
 
     //DB 접속
+    //데이터베이스에 접속 ( 시간이 많이 걸리는 작업 )
     conn.connect();
 
     //DB 질의
